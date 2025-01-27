@@ -7,6 +7,7 @@
 
 
 ### Стек
+ - Clickhouse
  - Apache Superset
 
 ### Задачи проекта
